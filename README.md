@@ -1,8 +1,8 @@
-<h3 align="center">🌸 Hiiii, I'm Squid! 🦑</h3>
+
 <p align="center">
   <img src="\images\banner.png" alt="Banner Image" width="100%"/>
 </p>
-
+<h3 align="center">🌸 Hiiii, I'm Squid! (˶˃ ᵕ ˂˶) .ᐟ.ᐟ </h3>
 <p align="center">🌙 All my victories belong to god and all my losses are mine alone. 🌟</p>
 
 <h5 align="left">👾 About Me:</h5>
