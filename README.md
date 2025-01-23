@@ -2,19 +2,13 @@
 <p align="center">
   <img src="\images\banner.png" alt="Banner Image" height="70%"/>
 </p>
-<h2 align="center"> ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ </h2>
-<h2 align="center">  🌙  Hii Hiii, I'm Squid!~  🦑  </h2>
-
-<br>
-
-<h4 align="center">Languages & Frameworks that I use:</h4>
-
-
-
-
- 
-
-
+<div id="user-content-toc" align="center">
+  <ul style="list-style: none; padding: 0; margin: 0;">
+    <summary><h1> <p> ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ </p> </h1></summary>
+    <summary><h2>🌙 Hii Hiii, I'm Squid!~</h2></summary>
+    <summary><h3>Languages & Frameworks that I know and love:</h3></summary>
+  </ul>
+</div>  
 <div align="center">
 <table>
   <tr>
