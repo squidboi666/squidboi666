@@ -61,7 +61,7 @@
     </td>
     <tr>
     <td>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
   </a>
   </td>
@@ -78,7 +78,7 @@
       </a>
     </td>
     <td align="center">
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/>
+    <a href="https://learn.microsoft.com/en-us/powershell/"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
     alt="PowerShell Core" width="80" height="80"/>
   <br>
