@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="\images\banner.png" alt="Banner Image"/>
+  <img src="\images\banner.png" alt="Banner Image" height="70%"/>
 </p>
-<h1 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h1>
-<h3 align="center">  🌙  Hii Hiii, I'm Squid!~  🦑  </h3>
+<h2 align="center"> ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ </h2>
+<h2 align="center">  🌙  Hii Hiii, I'm Squid!~  🦑  </h2>
 
 <br>
 
@@ -117,12 +117,4 @@
     </td>
   </tr>
 </table>
-</div>
-
-
-
-
-
-<div align="center">
-<img src="\images\footer-art.png" alt="Footer Image">
 </div>
