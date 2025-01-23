@@ -1,10 +1,10 @@
-<div align="center">
-  <p>
-    <img src="\images\banner.png" alt="Banner Image" width="80%"/>
-  </p>
-  <h1 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h1>
-  <h3 align="center">  🌙  Hii Hiii, I'm Squid!~  🦑  </h3>
-</div>
+
+<p align="center">
+  <img src="\images\banner.png" alt="Banner Image"/>
+</p>
+<h1 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h1>
+<h3 align="center">  🌙  Hii Hiii, I'm Squid!~  🦑  </h3>
+
 <br>
 
 <h4 align="center">Languages & Frameworks that I use:</h4>
@@ -124,5 +124,5 @@
 
 
 <div align="center">
-<img src="\images\footer-art.png" alt="Footer Image" width="80%"" >
+<img src="\images\footer-art.png" alt="Footer Image">
 </div>
