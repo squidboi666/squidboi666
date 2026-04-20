@@ -30,8 +30,8 @@
       </a>
     </td>
         <td align="center">
-      <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="80" height="80"/>
+      <a href="https://learn.microsoft.com/en-us/windows/apps/winui/winui3/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo-winui.svg" alt="WinUI 3" width="80" height="80"/>
         <br>
       </a>
     </td>
