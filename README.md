@@ -18,59 +18,17 @@
         <br>
       </a>
   </td>
-  <td align="center">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80"/>
-        <br>
-      </a>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
-        <br>
-      </a>
-    </td>
         <td align="center">
       <a href="https://learn.microsoft.com/en-us/windows/apps/winui/winui3/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo-winui.svg" alt="WinUI 3" width="80" height="80"/>
         <br>
       </a>
     </td>
-   <tr>
-    <td align="center">
-    <a href="https://www.renpy.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" alt="RenPy" width="80" height="80" />
-    <br>
-   </td>
-    <td align="center">
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="80" height="80"/>
-        <br>
-      </a>
-   </td>
-    <td align="center">
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="80" height="80"/>
-        <br>
-      </a>
-  </td>
-          <td align="center">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-        <br>
-      </a>
-    </td>
-    <tr>
     <td>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
   </a>
   </td>
-    <td align="center">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
-        <br>
-      </a>
-    </td>
     <td align="center">
       <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="80" height="80"/>
@@ -85,6 +43,12 @@
   </a>
   </td>
   <tr>
+    <td align="center">
+      <a href="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="Blazor" width="80" height="80"/>
+        <br>
+      </a>
+    </td>
     <td align="center">
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="80" height="80"/>
@@ -113,7 +77,5 @@
 </table>
 </div>
 <div id="user-content-toc" align="center">
-
-*Ein, you're a cow woof woof.*
 
 </div>
