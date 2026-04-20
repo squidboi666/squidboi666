@@ -13,8 +13,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="80" height="80"/>
+      <a href="https://devblogs.microsoft.com/directx/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/DirectX_12_Ultimate.png" alt="DirectX 12" width="80" height="80"/>
         <br>
       </a>
   </td>
