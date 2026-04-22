@@ -1,8 +1,8 @@
 
 <div id="user-content-toc" align="center">
     ( ꈍ◡ꈍ)
-    <summary><h4>Technology that I know and love:</h4></summary>
-    <hr />
+    <h4>Technology that I know and love:</h4>
+    <hr/>
 </div>  
 <div align="center">
 <table>
