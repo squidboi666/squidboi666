@@ -1,12 +1,8 @@
 
-<p align="center">
-  <img src="\images\banner.png" alt="Banner Image" height="70%"/>
-</p>
 <div id="user-content-toc" align="center">
   <ul style="list-style: none; padding: 0; margin: 0;">
-    <summary><h1><p>  ദ്ദി ˉ͈̀꒳ˉ͈́ )✧  </p></h1></summary>
-    <summary><h3>🌙  Hii Hiii, I'm Squid!  ✨</h3></summary>
-    <summary><h2>Languages & Frameworks that I know and love:</h2></summary>
+    <summary><h3><p>  ( ꈍ◡ꈍ) </p></h3></summary>
+    <summary><h4>Technology that I know and love:</h4></summary>
   </ul>
 </div>  
 <div align="center">
@@ -35,13 +31,6 @@
         <br>
       </a>
     </td>
-    <td align="center">
-    <a href="https://learn.microsoft.com/en-us/powershell/"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
-    alt="PowerShell Core" width="80" height="80"/>
-  <br>
-  </a>
-  </td>
   <tr>
     <td align="center">
       <a href="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg">
@@ -50,17 +39,12 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="80" height="80"/>
-        <br>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="80" height="80"/>
-        <br>
-      </a>
-    </td>
+    <a href="https://learn.microsoft.com/en-us/powershell/"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
+    alt="PowerShell Core" width="80" height="80"/>
+  <br>
+  </a>
+  </td>
     <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80"/>
