@@ -1,9 +1,8 @@
 
 <div id="user-content-toc" align="center">
-  <ul style="list-style: none; padding: 0; margin: 0;">
-    <summary><h3><p>  ( ꈍ◡ꈍ) </p></h3></summary>
+    ( ꈍ◡ꈍ)
     <summary><h4>Technology that I know and love:</h4></summary>
-  </ul>
+    <hr />
 </div>  
 <div align="center">
 <table>
